@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ishankerketta
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently working on Power BI 
+- 🌱 I’m currently exploring Power BI 
 - 💞️ I’m looking to collaborate on analytics projects
 - 📫 How to reach me: ishansavio@gmail.com
 
